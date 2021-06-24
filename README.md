@@ -8,6 +8,6 @@ ESP12E/ESP12F                     3MB
 ESP-01                            512KB
 ESP-01F                           512KB
 NodeMCU/LUA                       3MB
-You need SPIFFS implemented on ESP8266 inluding the (FS Uploader tool)[https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/]
+You need SPIFFS implemented on ESP8266 inluding the [FS Uploader tool](https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/)
 Dependencies
-(WiFiManager)[https://github.com/tzapu/WiFiManager]
+[WiFiManager](https://github.com/tzapu/WiFiManager)
