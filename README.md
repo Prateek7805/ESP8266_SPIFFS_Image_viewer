@@ -12,4 +12,4 @@ The amount of SPIFFS memory depends on the flash chip present on the ESP8266 mod
 
 You need SPIFFS implemented on ESP8266 inluding the [FS Uploader tool](https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/)\
 Dependencies\
-[WiFiManager](https://github.com/tzapu/WiFiManager)\
+[WiFiManager](https://github.com/tzapu/WiFiManager)
